@@ -45,6 +45,14 @@ body {
   font-weight: 500;
 }
 
+.temperature-value {
+  margin-top: 10px;
+}
+
+.temperature-unit {
+  margin-top: 10px;
+}
+
 .search-form-input {
   background-color: #fff1f1;
   border: none;
